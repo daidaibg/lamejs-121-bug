@@ -1,6 +1,6 @@
 {
   "name": "lamejs-121-bug",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Pure JavaScript MP3 Encoder，Dealing with official 1.2.1 bug issues",
   "main": "src/js/index.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhuker/lamejs.git"
+    "url": "git+https://github.com/daidaibg/lamejs-121-bug.git"
   },
   "keywords": [
     "mp3",
@@ -23,9 +23,9 @@
   "author": "daidai",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/zhuker/lamejs/issues"
+    "url": "https://github.com/daidaibg/lamejs-121-bug/issues"
   },
-  "homepage": "https://github.com/zhuker/lamejs#readme",
+  "homepage": "https://github.com/daidaibg/lamejs-121-bug",
   "dependencies": {
     "use-strict": "1.0.1"
   }
